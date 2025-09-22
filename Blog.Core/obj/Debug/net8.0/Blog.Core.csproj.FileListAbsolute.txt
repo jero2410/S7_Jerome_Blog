@@ -1,0 +1,11 @@
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\bin\Debug\net8.0\Blog.Core.deps.json
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\bin\Debug\net8.0\Blog.Core.dll
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\bin\Debug\net8.0\Blog.Core.pdb
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\obj\Debug\net8.0\Blog.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\obj\Debug\net8.0\Blog.Core.AssemblyInfoInputs.cache
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\obj\Debug\net8.0\Blog.Core.AssemblyInfo.cs
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\obj\Debug\net8.0\Blog.Core.csproj.CoreCompileInputs.cache
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\obj\Debug\net8.0\Blog.Core.dll
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\obj\Debug\net8.0\refint\Blog.Core.dll
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\obj\Debug\net8.0\Blog.Core.pdb
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Core\obj\Debug\net8.0\ref\Blog.Core.dll
