@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Blog.Infarstructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a303020d5cf829c5e57537ddb1f12fb04252376")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c37b829d12d27f967c15ce686de525914a9f62d9")]
 [assembly: System.Reflection.AssemblyProductAttribute("Blog.Infarstructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Blog.Infarstructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
