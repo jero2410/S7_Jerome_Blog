@@ -15,3 +15,4 @@ D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blo
 D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Infarstructure\obj\Debug\net8.0\Blog.Infarstructure.pdb
 D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Infarstructure\obj\Debug\net8.0\Blog.Infarstructure.genruntimeconfig.cache
 D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Infarstructure\obj\Debug\net8.0\ref\Blog.Infarstructure.dll
+D:\Jerome\Depi\Technical\Explaination\Backend(.NET Core api)\Projects\Jerome_Blog\Blog.Infarstructure\obj\Debug\net8.0\Blog.Infarstructure.sourcelink.json
